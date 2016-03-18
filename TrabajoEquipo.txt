@@ -2,5 +2,9 @@ Practica de GIT en equipo
 _____________________________________
 
 
+
+
+Modificacion Lamberto Valdez
+
 Commit Orlando
 _____________________________
